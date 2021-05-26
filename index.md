@@ -18,7 +18,7 @@
         <h1 class="u-text-p2 u-Mb-xs">CVK virtuālais asistents</h1>
         <p class="u-text-p5 u-Mb-sm">
             Šis ir CVK uzziņu tālruņa (67049999) virtuālais asistents -
-            Tas palīdzēs saņemt atbildes uz biežāk uzdotiem jautājumiem par pašvaldību vēlēšanām.
+            Tas palīdzēs rast atbildes uz biežāk uzdotiem jautājumiem par pašvaldību vēlēšanām.
             Lūdzu nospiediet taustiņu "Atvērt asistentu", lai uzsāktu sarunu.
         </p>
     </div>

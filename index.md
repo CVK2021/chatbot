@@ -8,7 +8,7 @@
         be.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.chatbot.com/widget/plugin.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(be, s);
     })();
-        window.onload = function();
+        window.onload = BE_API.openChatWindow();
     </script>  
 </head>
      

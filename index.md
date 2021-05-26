@@ -1,4 +1,5 @@
-
+<html>
+<body onload="BE_API.openChatWindow()">
 <section class="o-container u-hidden u-Py-2xl" id="widget" style="display: block;">
     <div class="u-maxw-6 u-pb-2xs">
         <h1 class="u-text-p2 u-Mb-xs">CVK virtuālais asistents</h1>
@@ -26,6 +27,8 @@
     
 </section>
 
+</body>
+</html>
 
 
 

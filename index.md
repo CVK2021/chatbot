@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <script type="text/javascript">
     window.__be = window.__be || {};
-    window.__be.id = "60ae2b7cb2ee370007b0257e";
+    window.__be.id = "60ae27b7b2ee370007b022b7";
     (function() {
         var be = document.createElement('script'); be.type = 'text/javascript'; be.async = true;
         be.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.chatbot.com/widget/plugin.js';

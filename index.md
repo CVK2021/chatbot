@@ -1,3 +1,6 @@
+    <link rel="preload" as="style" href="https://www.chatbot.com/dist/css/main.c62957b7429060f74cf02ec1c146b77a23ed6bff7e8a94dab51dfc6bcf100b3a.css">
+    <link rel="stylesheet" href="https://www.chatbot.com/dist/css/main.c62957b7429060f74cf02ec1c146b77a23ed6bff7e8a94dab51dfc6bcf100b3a.css">
+
 <section class="o-container u-hidden u-Py-2xl" id="widget" style="display: block;">
     <div class="u-maxw-6 u-pb-2xs">
         <h1 class="u-text-p2 u-Mb-xs">CVK virtuālais asistents</h1>

@@ -11,10 +11,8 @@
         <button onclick="BE_API.openChatWindow();return false;" class="c-btn u-mr-2xs u-mb-xs v--primary">Open chat window</button>
         <button onclick="BE_API.closeChatWindow();return false;" class="c-btn u-mb-xs v--primary">Close chat window</button>
     </div>
-</section>
-
-
-<script type="text/javascript">
+    
+    <script type="text/javascript">
     window.__be = window.__be || {};
     window.__be.id = "60ae27b7b2ee370007b022b7";
     (function() {
@@ -23,4 +21,9 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(be, s);
     })();
 </script>
+    
+</section>
+
+
+
 

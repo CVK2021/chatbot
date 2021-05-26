@@ -9,9 +9,7 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(be, s);
     })();
         window.BE_API = window.BE_API || {};
-window.BE_API.onLoad = function () {
-    window.BE_API.openChatWindow();
-};
+        window.BE_API.onLoad = function () { window.BE_API.openChatWindow(); };
     </script>  
 </head>
      

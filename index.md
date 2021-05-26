@@ -8,10 +8,10 @@
         be.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.chatbot.com/widget/plugin.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(be, s);
     })();
+        window.onload = function();
     </script>  
 </head>
      
-<body onload="BE_API.openChatWindow();return false;>
 <section class="o-container u-hidden u-Py-2xl" id="widget" style="display: block;">
     <div class="u-maxw-6 u-pb-2xs">
         <h1 class="u-text-p2 u-Mb-xs">CVK virtuālais asistents</h1>
@@ -29,7 +29,6 @@
 
 </section>
 
-</body>
 </html>
 
 

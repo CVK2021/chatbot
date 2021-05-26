@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<!-- Start of ChatBot (www.chatbot.com) code -->
+
 <script type="text/javascript">
     window.__be = window.__be || {};
     window.__be.id = "60ae2b7cb2ee370007b0257e";
@@ -46,4 +46,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(be, s);
     })();
 </script>
-<!-- End of ChatBot code -->
+

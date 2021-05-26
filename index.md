@@ -8,7 +8,10 @@
         be.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.chatbot.com/widget/plugin.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(be, s);
     })();
-        window.onload = BE_API.openChatWindow();
+        window.BE_API = window.BE_API || {};
+window.BE_API.onLoad = function () {
+    window.BE_API.openChatWindow();
+};
     </script>  
 </head>
      

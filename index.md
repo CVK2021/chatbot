@@ -1,16 +1,8 @@
 <html>
  <head>
-       <script type="text/javascript">
-    window.__be = window.__be || {};
-    window.__be.id = "60ae27b7b2ee370007b022b7";
-    (function() {
-        var be = document.createElement('script'); be.type = 'text/javascript'; be.async = true;
-        be.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.chatbot.com/widget/plugin.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(be, s);
-    })();
-        window.BE_API = window.BE_API || {};
-        window.BE_API.onLoad = function () { window.BE_API.openChatWindow(); };
-    </script>  
+<!-- START Motion Chat Script --> 
+    <script src="https://85.254.44.20:443/api/chat/websites/1/snippet?token=eBexO64E3e2h00Vb60L7hWbaDnc45TrJ"></script> 
+<!-- START Motion Chat Script -->
 </head>
      
 <section class="o-container u-hidden u-Py-2xl" id="widget" style="display: block;">
@@ -29,9 +21,7 @@
     </div>
 
 </section>
-<!-- START Motion Chat Script --> 
-    <script src="https://85.254.44.20:443/api/chat/websites/1/snippet?token=eBexO64E3e2h00Vb60L7hWbaDnc45TrJ"></script> 
-<!-- START Motion Chat Script -->
+
 </html>
 
 

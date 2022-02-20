@@ -7,10 +7,8 @@
      
 <section class="o-container u-hidden u-Py-2xl" id="widget" style="display: block;">
     <div class="u-maxw-6 u-pb-2xs">
-        <h1 class="u-text-p2 u-Mb-xs">CVK virtuālais asistents</h1>
+        <h1 class="u-text-p2 u-Mb-xs">CHATS ar xCally aģentu</h1>
         <p class="u-text-p5 u-Mb-sm">
-            Šis ir CVK uzziņu tālruņa (67049999) virtuālais asistents -
-            Tas palīdzēs rast atbildes uz biežāk uzdotiem jautājumiem par pašvaldību vēlēšanām.
             Lūdzu nospiediet taustiņu "Atvērt asistentu", lai uzsāktu sarunu.
         </p>
     </div>

@@ -1,26 +1,23 @@
+<!DOCTYPE html>
 <html>
- <body>
-<!-- START Motion Chat Script --> 
-    <script src="https://cally.csolutions.lv:443/api/chat/websites/1/snippet?token=eBexO64E3e2h00Vb60L7hWbaDnc45TrJ"></script> 
-<!-- START Motion Chat Script -->
+<head>
+    <title>Chat Widget</title>
+</head>
+<body>
+    <script src="https://cally.csolutions.lv:443/api/chat/websites/1/snippet?token=eBexO64E3e2h00Vb60L7hWbaDnc45TrJ"></script>
+    <section class="o-container u-hidden u-Py-2xl" id="widget" style="display: block;">
+        <div class="u-maxw-6 u-pb-2xs">
+            <h1 class="u-text-p2 u-Mb-xs">CHATS ar xCally aģentu</h1>
+            <p class="u-text-p5 u-Mb-sm">
+                Lūdzu nospiediet taustiņu "Atvērt asistentu", lai uzsāktu sarunu.
+            </p>
+        </div>
+
+        <div class="u-text-p6">
+            <button onclick="BE_API.openChatWindow();return false;" class="c-btn u-mr-2xs u-mb-xs v--primary">ATVĒRT ASISTENTU</button>
+            <button onclick="BE_API.closeChatWindow();return false;" class="c-btn u-mb-xs v--primary">AIZVĒRT</button>
+        </div>
+    </section>
+
 </body>
-     
-<section class="o-container u-hidden u-Py-2xl" id="widget" style="display: block;">
-    <div class="u-maxw-6 u-pb-2xs">
-        <h1 class="u-text-p2 u-Mb-xs">CHATS ar xCally aģentu</h1>
-        <p class="u-text-p5 u-Mb-sm">
-            Lūdzu nospiediet taustiņu "Atvērt asistentu", lai uzsāktu sarunu.
-        </p>
-    </div>
-    
-    <div class="u-text-p6">
-        <button onclick="BE_API.openChatWindow();return false;" class="c-btn u-mr-2xs u-mb-xs v--primary">ATVĒRT ASISTENTU</button>
-        <button onclick="BE_API.closeChatWindow();return false;" class="c-btn u-mb-xs v--primary">AIZVĒRT</button>
-    </div>
-
-</section>
-
 </html>
-
-
-

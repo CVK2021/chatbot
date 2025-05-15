@@ -4,7 +4,7 @@
     <title>Chat Widget</title>
 </head>
 <body>
-    <script src="https://cally.csolutions.lv:443/api/chat/websites/1/snippet?token=eBexO64E3e2h00Vb60L7hWbaDnc45TrJ"></script>
+    <script src="https://85.254.44.20:443/api/chat/websites/1/snippet?token=eBexO64E3e2h00Vb60L7hWbaDnc45TrJ"></script>
     <section class="o-container u-hidden u-Py-2xl" id="widget" style="display: block;">
         <div class="u-maxw-6 u-pb-2xs">
             <h1 class="u-text-p2 u-Mb-xs">CHATS ar xCally aģentu</h1>
